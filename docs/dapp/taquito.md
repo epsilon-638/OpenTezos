@@ -12,7 +12,7 @@ Fortunately, the Tezos ecosystem offers libraries in several languages, that ena
 _Taquito_ is one of these libraries: it is a Typescript library developed and maintained by _ECAD Labs_.
 This library offers developers all the expected interactions with the blockchain: retrieving information about a Tezos network, sending a transaction, contract origination and interactions (calling an entrypoint, fetching the storage...), delegation, metadata...
 
-For example, all these wallets ([AirGap](https://airgap.it/), [Galleon](https://cryptonomic.tech/galleon.html), [Kukai](https://wallet.kukai.app/), [Spire](https://spirewallet.com/), [Temple](https://templewallet.com/download/) ) make use this library to fonction.
+For example, all these wallets ([AirGap](https://airgap.it/), [Galleon](https://cryptonomic.tech/galleon.html), [Kukai](https://wallet.kukai.app/), [Spire](https://spirewallet.com/), [Temple](https://templewallet.com/download/) ) make use of this library to function.
 
 A full reference is available [here](https://tezostaquito.io/docs/quick_start).
 
